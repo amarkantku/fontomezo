@@ -1,10 +1,32 @@
-.App {
-  text-align: center;
+
+.ckeditor, .markupText {
+  margin: 25px;
+}
+.markupText {
+ border: 1px dashed #e6e6e6;
+ padding: 10px;
+ height: 270px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.scroll { 
+  margin:4px, 4px; 
+  padding:4px;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  text-align:justify; 
+} 
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -13,15 +35,17 @@
   }
 }
 
-.App-header {
+.header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-style: italic;
+  padding-bottom: 10px;
 }
 
 .App-link {
@@ -36,3 +60,4 @@
     transform: rotate(360deg);
   }
 }
+
