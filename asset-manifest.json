@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fontomezo/static/css/main.11456861.chunk.css",
+    "main.js": "/fontomezo/static/js/main.a991aee6.chunk.js",
+    "main.js.map": "/fontomezo/static/js/main.a991aee6.chunk.js.map",
+    "runtime-main.js": "/fontomezo/static/js/runtime-main.48f3eda7.js",
+    "runtime-main.js.map": "/fontomezo/static/js/runtime-main.48f3eda7.js.map",
+    "static/js/2.30d5274d.chunk.js": "/fontomezo/static/js/2.30d5274d.chunk.js",
+    "static/js/2.30d5274d.chunk.js.map": "/fontomezo/static/js/2.30d5274d.chunk.js.map",
+    "index.html": "/fontomezo/index.html",
+    "precache-manifest.447d4817cceaf5605da0ca9261f19220.js": "/fontomezo/precache-manifest.447d4817cceaf5605da0ca9261f19220.js",
+    "service-worker.js": "/fontomezo/service-worker.js",
+    "static/css/main.11456861.chunk.css.map": "/fontomezo/static/css/main.11456861.chunk.css.map",
+    "static/js/2.30d5274d.chunk.js.LICENSE.txt": "/fontomezo/static/js/2.30d5274d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f3eda7.js",
+    "static/js/2.30d5274d.chunk.js",
+    "static/css/main.11456861.chunk.css",
+    "static/js/main.a991aee6.chunk.js"
+  ]
+}
